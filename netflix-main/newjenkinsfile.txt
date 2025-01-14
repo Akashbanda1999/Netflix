@@ -1,3 +1,4 @@
+//for docker login
 pipeline {
     agent any
     tools {
